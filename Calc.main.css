@@ -1,0 +1,28 @@
+body{
+    color: white;
+    background-color: black; 
+    height: 1000px;
+    width:1400px;
+      
+}
+
+#place {
+   height: 150px;
+   width: 450px;
+   border-color: black;
+   font-size: 30px;
+   background-color: lightgray;
+}
+
+button{
+    height: 150px;
+    width: 150px;
+    background-color: lightskyblue;
+    font-size: 30px;
+    border-color: black;
+    
+}
+container{
+    display: flex;
+    justify-content: flex-start;
+}
